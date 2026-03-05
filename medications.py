@@ -14,7 +14,7 @@ MEDICATIONS = [
         "duration_days": 14,
         "note": "Xịt mũi 1 lần",
         "schedules": [
-            {"time": "07:00", "label": "Buổi sáng", "emoji": "🌅"},
+            {"time": "06:00", "label": "Buổi sáng", "emoji": "🌅"},
         ],
     },
     {
@@ -23,8 +23,8 @@ MEDICATIONS = [
         "duration_days": 60,
         "note": "Hít 1 lần",
         "schedules": [
-            {"time": "07:00", "label": "Buổi sáng", "emoji": "🌅"},
-            {"time": "21:00", "label": "Buổi tối", "emoji": "🌙"},
+            {"time": "06:00", "label": "Buổi sáng", "emoji": "🌅"},
+            {"time": "20:00", "label": "Buổi tối", "emoji": "🌙"},
         ],
     },
     {
@@ -33,8 +33,8 @@ MEDICATIONS = [
         "duration_days": 30,
         "note": "Rửa mặt sạch",
         "schedules": [
-            {"time": "07:00", "label": "Buổi sáng", "emoji": "🌅"},
-            {"time": "21:00", "label": "Buổi tối", "emoji": "🌙"},
+            {"time": "06:00", "label": "Buổi sáng", "emoji": "🌅"},
+            {"time": "22:00", "label": "Buổi tối", "emoji": "🌙"},
         ],
     },
     {
@@ -43,7 +43,7 @@ MEDICATIONS = [
         "duration_days": 30,
         "note": "Uống 2 viên sau khi ăn",
         "schedules": [
-            {"time": "20:30", "label": "Tối sau khi ăn", "emoji": "🍽️"},
+            {"time": "19:00", "label": "Tối sau khi ăn", "emoji": "🍽️"},
         ],
     },
     {
@@ -52,8 +52,8 @@ MEDICATIONS = [
         "duration_days": 10,
         "note": "Bôi sau khi rửa mặt",
         "schedules": [
-            {"time": "07:15", "label": "Sau rửa mặt sáng", "emoji": "🌅"},
-            {"time": "21:15", "label": "Sau rửa mặt tối", "emoji": "🌙"},
+            {"time": "06:00", "label": "Sau rửa mặt sáng", "emoji": "🌅"},
+            {"time": "22:00", "label": "Sau rửa mặt tối", "emoji": "🌙"},
         ],
     },
     {
@@ -62,7 +62,7 @@ MEDICATIONS = [
         "duration_days": 7,
         "note": "Uống 1 viên (tổng 7 viên)",
         "schedules": [
-            {"time": "20:30", "label": "Sau khi ăn tối", "emoji": "🍽️"},
+            {"time": "19:00", "label": "Sau khi ăn tối", "emoji": "🍽️"},
         ],
     },
 ]
