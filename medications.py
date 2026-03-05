@@ -62,7 +62,7 @@ MEDICATIONS = [
         "duration_days": 7,
         "note": "Uống 1 viên (tổng 7 viên)",
         "schedules": [
-            {"time": "19:00", "label": "Sau khi ăn tối", "emoji": "🍽️"},
+            {"time": "06:00", "label": "Sau khi ăn sáng", "emoji": "🍽️"},
         ],
     },
 ]
